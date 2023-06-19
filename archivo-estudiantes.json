@@ -1,0 +1,70 @@
+[
+  {
+    "nombre": "fernando",
+    "edad": 44,
+    "legajo": 23001,
+    "curso": "react",
+    "notas": [
+      7,
+      9
+    ]
+  },
+  {
+    "nombre": "veronica",
+    "edad": 38,
+    "legajo": 23014,
+    "curso": "js",
+    "notas": [
+      9,
+      9,
+      3
+    ]
+  },
+  {
+    "nombre": "enzo",
+    "edad": 13,
+    "legajo": 23015,
+    "curso": "js",
+    "notas": [
+      8,
+      7,
+      9
+    ]
+  },
+  {
+    "nombre": "julieta",
+    "edad": 15,
+    "legajo": 23016,
+    "curso": "react",
+    "notas": [
+      9
+    ]
+  },
+  {
+    "nombre": "ingrid",
+    "edad": 18,
+    "legajo": 23017,
+    "curso": "js",
+    "notas": [
+      9,
+      2,
+      9
+    ]
+  },
+  {
+    "nombre": "fer",
+    "edad": 34,
+    "legajo": 23018,
+    "curso": "python",
+    "notas": []
+  },
+  {
+    "nombre": "miriam",
+    "edad": 38,
+    "legajo": 23019,
+    "curso": "js",
+    "notas": [
+      10
+    ]
+  }
+]
